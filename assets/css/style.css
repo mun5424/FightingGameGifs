@@ -1,0 +1,22 @@
+body { 
+    font-family: "Helvetica"; 
+    font-size: 14px;
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin: 5px;
+}
+
+.image-div {
+    display: inline-block;
+    margin: 5px;
+}
+.image-rating {
+    font-family: "Helvetica"; 
+    font-size: 14px;
+    font-weight: bold;
+}
